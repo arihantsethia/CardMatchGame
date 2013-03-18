@@ -1,0 +1,8 @@
+Card Match is a memory card game  where you have to match two pairs of play cards as quickly as possible,
+ to pass each level. It seems super-simple to play but
+actually requires sharp visual-memory skills.
+
+Instructions can be obtained from the user manual  provided  along with this software.
+
+Author: Arihant Sethia
+e-mail: arihantsethia07@gmail.com

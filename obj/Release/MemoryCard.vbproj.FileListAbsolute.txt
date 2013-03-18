@@ -1,0 +1,12 @@
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\bin\Release\Memory Card Game.exe.config
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\bin\Release\Memory Card Game.exe
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\bin\Release\Memory Card Game.pdb
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\bin\Release\Memory Card Game.xml
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\MemoryCardGame.About.resources
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\MemoryCardGame.play.resources
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\MemoryCardGame.start.resources
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\MemoryCardGame.Resources.resources
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\MemoryCard.vbproj.GenerateResource.Cache
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\Memory Card Game.exe
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\Memory Card Game.xml
+C:\Users\Arihant Sethia\Documents\Visual Studio 2012\Projects\MemoryGame\MemoryGame\obj\Release\Memory Card Game.pdb
